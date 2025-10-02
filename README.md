@@ -10,6 +10,16 @@
 
 NotebookFi is a Web3 content monetization platform that enables creators to share premium educational content, tutorials, and digital resources while earning Pi cryptocurrency directly from their audience. The platform eliminates traditional intermediaries, allowing creators to retain full control over their content and pricing.
 
+<p align="center">
+<br />
+    <img src="/images/1.png" width="600" alt="logo"/>
+<br />
+    <img src="/images/2.png" width="600" alt="logo"/>
+<br />
+    <img src="/images/3.png" width="600" alt="logo"/>
+<br />
+</p>
+
 ## For Creators:
 
 - Publish premium content (tutorials, courses, guides, articles)
