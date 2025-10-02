@@ -18,6 +18,8 @@ NotebookFi is a Web3 content monetization platform that enables creators to shar
 <br />
     <img src="/images/3.png" width="600" alt="logo"/>
 <br />
+    <img src="/images/6.png" width="600" alt="logo"/>
+<br />
 </p>
 
 ## For Creators:
