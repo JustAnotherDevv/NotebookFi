@@ -1,0 +1,27 @@
+# NotebookFi
+
+**A decentralized knowledge marketplace powered by Pi Network**
+
+NotebookFi is a Web3 content monetization platform that enables creators to share premium educational content, tutorials, and digital resources while earning Pi cryptocurrency directly from their audience. The platform eliminates traditional intermediaries, allowing creators to retain full control over their content and pricing.
+
+## For Creators:
+
+- Publish premium content (tutorials, courses, guides, articles)
+- Set custom pricing in Pi tokens
+- Multiple content formats supported (text, images, videos, mixed media)
+- Direct monetization without platform fees
+- Build and grow follower base
+- Track earnings and engagement metrics
+
+## For Consumers:
+
+- Discover quality educational content across multiple categories
+- Secure, one-time purchases using Pi cryptocurrency
+- Permanent access to purchased content
+- Preview content before purchasing
+- Follow favorite creators
+- Curated creator marketplace
+
+## Use Cases
+
+NotebookFi serves various creator types including digital artists sharing technique guides, developers offering coding tutorials, fitness coaches providing workout plans, designers selling templates and resources, educators creating course materials, and subject matter experts sharing specialized knowledge.
